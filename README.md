@@ -1,9 +1,9 @@
 # fisa_jenkins_prac
 
-젠킨스 CI 되는지 확인중 입니다
-asdf
-asdfadf
-asdfasdfasdf
+🥅 **Goal** <br/>
+db연동 없이 get 기능 만 구현된 스프링 프로젝트를 한대의 프리티어 인스턴스에 jar파일 하나만 받아서 실행한다.
+이때 젠킨스는 또 다른 인스턴스(t2.2xlarge)에 위치하고 있다
+파이프라인의 구성은 
+<br/>
 
-
-## ghkrdls
+## 구조
