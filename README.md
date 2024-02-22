@@ -43,6 +43,7 @@
 
 **ARCHITECTURE**
 
+![제목 없는 다이어그램 drawio](https://github.com/JiJuOh/fisa_jenkins_prac/assets/31668639/d89e0908-4916-402e-be54-ada184e574a7)
 
 
 </div>
