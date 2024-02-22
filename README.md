@@ -2,6 +2,8 @@
   
 <h1 style="font-size: 0.5em;">fisa_jenkins_prac <img src="https://www.jenkins.io/images/logos/belarus/belarus.png" height="100px"/> </h1>
 
+**DURATION**
+2024.02.21 - 2024.02.22
 
 **GOAL**
 <br/><br/>
@@ -19,6 +21,8 @@
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 <br/><br/><br/>
+
+
 
 **STAGES**
 <br/><br/>
@@ -38,5 +42,7 @@
 <br/><br/><br/>
 
 **ARCHITECTURE**
+
+
 
 </div>
