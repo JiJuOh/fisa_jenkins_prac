@@ -45,7 +45,8 @@
 
 **ARCHITECTURE**
 
-![제목 없는 다이어그램 drawio](https://github.com/JiJuOh/fisa_jenkins_prac/assets/31668639/d89e0908-4916-402e-be54-ada184e574a7)
+![0220mission](https://github.com/JiJuOh/fisa_jenkins_prac/assets/31668639/250427ec-2a7b-4c31-8634-8136264d8b21)
+
 
 
 </div>
