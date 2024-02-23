@@ -4,7 +4,7 @@
 
 **TITLE**
 <br/>
-2개의 인스턴스를 이용한 IaaS 프로젝트
+2개의 EC2 인스턴스를 이용한 IaaS 프로젝트
 <br/><br/>
 **DURATION**
 <br/>
