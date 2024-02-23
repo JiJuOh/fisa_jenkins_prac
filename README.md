@@ -3,11 +3,12 @@
 <h1 style="font-size: 0.5em;">fisa_jenkins_prac <img src="https://www.jenkins.io/images/logos/belarus/belarus.png" height="100px"/> </h1>
 
 **DURATION**
+<br/>
 2024.02.21 - 2024.02.22
 
 **GOAL**
 <br/><br/>
-젠킨스 서버 인스턴스, 웹서버 인스턴스(프리티어) 를 연동 하여 CI 완성하기
+젠킨스 서버 인스턴스, 웹서버 인스턴스(프리티어) 를 연동 하여 CI 완성하기 IaaS
 <br/><br/><br/>
 
 **SKILLS**
